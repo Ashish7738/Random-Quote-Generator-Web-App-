@@ -1,1 +1,2 @@
 Refactor candidate
+Clarify naming
