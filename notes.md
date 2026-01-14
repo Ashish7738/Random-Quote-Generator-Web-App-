@@ -12,3 +12,4 @@ Minor polish
 Try alternative approach
 Check documentation
 Keep simple
+Potential optimization
