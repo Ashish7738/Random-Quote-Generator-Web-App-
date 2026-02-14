@@ -2,3 +2,4 @@ Recheck assumptions
 Reviewed approach
 Cross-reference
 Add example
+Idea: caching layer
