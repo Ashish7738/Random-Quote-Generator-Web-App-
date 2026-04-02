@@ -24,3 +24,4 @@ Check documentation
 Refactor candidate
 Add comment
 Potential optimization
+Idea: caching layer
