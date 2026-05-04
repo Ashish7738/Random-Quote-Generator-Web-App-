@@ -18,3 +18,4 @@ Testing needed
 Clarify naming
 Reviewed approach
 Testing needed
+Note: performance implications
