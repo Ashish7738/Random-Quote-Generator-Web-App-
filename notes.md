@@ -4,3 +4,4 @@ Cross-reference
 Add example
 Idea: caching layer
 Check documentation
+Keep simple
