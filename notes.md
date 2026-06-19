@@ -7,3 +7,4 @@ Check documentation
 Keep simple
 Potential optimization
 Small improvement
+Add comment
