@@ -5,3 +5,4 @@ Add example
 Idea: caching layer
 Check documentation
 Keep simple
+Potential optimization
