@@ -8,3 +8,4 @@ Keep simple
 Potential optimization
 Small improvement
 Add comment
+Check documentation
