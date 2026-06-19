@@ -6,3 +6,4 @@ Idea: caching layer
 Check documentation
 Keep simple
 Potential optimization
+Small improvement
