@@ -20,3 +20,4 @@ Reviewed approach
 Testing needed
 Note: performance implications
 Refactor candidate
+Note: performance implications
