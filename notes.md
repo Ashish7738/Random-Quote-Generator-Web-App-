@@ -4,3 +4,4 @@ Cross-reference
 Verify flow
 Check documentation
 Refactor candidate
+Note: performance implications
