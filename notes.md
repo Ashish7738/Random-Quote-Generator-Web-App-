@@ -5,3 +5,4 @@ Add example
 Clarify naming
 Consider edge cases
 Keep simple
+Refactor candidate
